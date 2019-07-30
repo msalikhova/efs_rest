@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff0ee9dc-b6c0-4133-889c-afd65d534c36" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../efs_vue/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../efs_vue/efs_vue/src/components/Auth.vue" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../efs_vue/efs_vue/src/components/CustomerCreate.vue" afterDir="false" />
@@ -80,9 +79,7 @@
       <change beforePath="$PROJECT_DIR$/../efs-Oldheroku/portfolio/views.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../efs-Oldheroku/requirements.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../efs-Oldheroku/runtime.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/efs_rest/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/efs_rest/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../profilepic.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/LICENSE" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../vue-npm/node_modules/vue/README.md" beforeDir="false" />
@@ -313,11 +310,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/efs_rest/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-925">
-              <caret line="67" column="54" lean-forward="true" selection-start-line="67" selection-start-column="54" selection-end-line="67" selection-end-column="54" />
+            <state relative-caret-position="255">
+              <caret line="33" column="24" lean-forward="true" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
               <folding>
                 <element signature="e#309#318#0" expanded="true" />
               </folding>
@@ -325,7 +322,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/requirements.txt">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
@@ -438,15 +435,16 @@
       <workItem from="1564245636485" duration="1825000" />
       <workItem from="1564423294219" duration="1534000" />
       <workItem from="1564435625467" duration="2006000" />
-      <workItem from="1564511068959" duration="3583000" />
+      <workItem from="1564511068959" duration="3847000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12196000" />
+    <option name="totallyTimeSpent" value="12460000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1292" height="692" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26618123" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -545,18 +543,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/efs_rest/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-925">
-          <caret line="67" column="54" lean-forward="true" selection-start-line="67" selection-start-column="54" selection-end-line="67" selection-end-column="54" />
+        <state relative-caret-position="255">
+          <caret line="33" column="24" lean-forward="true" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
           <folding>
             <element signature="e#309#318#0" expanded="true" />
           </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/requirements.txt">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>

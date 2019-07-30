@@ -28,7 +28,7 @@ SECRET_KEY = '6gt#+g8u9cy#)$y1%lr+#_t+^o32_w^@e&huy8vqar&af$i@-2'
 DEBUG = True
 SECURE_PROXY_SSL_HEADER = ('HTTP_X_FORWARDED_PROTO', 'https')
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
