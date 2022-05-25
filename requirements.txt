@@ -7,7 +7,7 @@ djangorestframework-jwt==1.11.0
 freeze==1.0.10
 gunicorn==19.9.0
 psycopg2==2.8.3
-PyJWT==1.5.3
+PyJWT==2.4.0
 pytz==2018.5
 six==1.12.0
 sqlparse==0.3.0
